@@ -1,0 +1,39 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code / VS
+.vscode/
+.idea/
+*.code-workspace
+
+# ASP.NET / Blazor / Razor
+wwwroot/
+appsettings*.json
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+*.bak
+*.ncb
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Others
+TestResults/
+_ReSharper*/
+*.vs/
